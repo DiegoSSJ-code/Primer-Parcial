@@ -1,0 +1,16 @@
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\ADIVINADOR TACHA.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\bin\Debug\netstandard2.0\ADIVINADOR TACHA.deps.json
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\bin\Debug\netstandard2.0\ADIVINADOR TACHA.dll
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\bin\Debug\netstandard2.0\ref\ADIVINADOR TACHA.dll
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\bin\Debug\netstandard2.0\ADIVINADOR TACHA.pdb
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\ADIVINADOR TACHA.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\ADIVINADOR TACHA.AssemblyInfo.cs
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\ADIVINADOR TACHA.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\ADIVINADOR TACHA.dll
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\ref\ADIVINADOR TACHA.dll
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\ADIVINADOR TACHA.pdb
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Win10\source\repos\ADIVINADOR TACHA\ADIVINADOR TACHA\ADIVINADOR TACHA\obj\Debug\netstandard2.0\Page2.xaml.g.cs
